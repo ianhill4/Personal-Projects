@@ -7,3 +7,4 @@ To be added:
   - Castling
   - En Passant
 * Mate and Checkmate
+* Piece graphics
