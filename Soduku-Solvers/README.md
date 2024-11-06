@@ -1,0 +1,3 @@
+# Sudoku Solvers
+
+This folder contains three files. The first of which is "SudokuChecker.py", a simple Sudoku puzzle checker that confirms if a Sudoku puzzle is completed. The second is "NaiveSudokuSolver.py", a naive Sudoku solver that reduces the possible values for each tile, and only selects a new value for a blank tile when it has only one possible value remaining. The final file is "NondeterministicSudokuSolver.py", a nondeterministic Sudoku solver that uses a form of A* search to first reduce the possible values as much as possible, and then simulate the results of all remaining values.
